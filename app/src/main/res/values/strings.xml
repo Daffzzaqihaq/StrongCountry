@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Top 10 Powerfull</string>
+
+    <string-array name="name">
+        <item>Turki</item>
+        <item>Inggris</item>
+        <item>Italia</item>
+        <item>Korea Selatan</item>
+        <item>Perancis</item>
+        <item>India</item>
+        <item>Jepang</item>
+        <item>China</item>
+        <item>Rusia</item>
+        <item>Amerika Serikat</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Negeri yang baru saja diguncang kudeta memiliki militer terkuat ke-10 di dunia dengan jumlah personel aktif terbesar kedua di antara seluruh anggota NATO, setelah Amerika Serikat.
+
+Pemerintah Turki mengucurkan anggaran 18.2 miliar dolar atau Rp240 triliun setahun. Militer Turki memiliki 410.500 personel aktif, personel cadangan 410.500 orang, 3.778 tank, 1.020 pesawat tempur, 194 kapal perang dan 13 kapal selam.</item>
+        <item>Secara tradisi, Inggris memiliki angkatan bersenjata yang kuat, khususnya angkatan laut. Berbagai perang besar sudah dilakoni militer Inggris sejak terbentuk pada 1707.
+
+Kini tugas militer Inggris selain bertempur di berbagai front juga melakukan tugas-tugas kemanusiaan dan tentu saja menjaga kedaulatan negerinya.
+
+Sebagai salah satu negara utama dunia, Inggris menganggarkan 60,5 miliar dolar atau lebih dari Rp800,5 triliun.
+
+Dengan anggaran ini, Inggris membiayai 146.980 personel aktif dan 182.000 personel cadangan.
+
+Dari sisi alutsista Inggris memiliki 407 tank, 936 pesawat tempur, 76 kapal perang termasuk 1 kapal induk dan 10 kapal selam.</item>
+        <item>Angkatan bersenjata Italia memiliki empat cabang yaitu angkatan darat, laut, udara dan carabinieri, pasukan paramiliter yang bertugas di dalam negeri.
+
+Italia memiliki anggaran militer sebesar 34 miliar dolar AS atau sekitar Rp450 triliun tahun ini.
+
+Angkatan bersenjata Italia memiliki 320.000 personel aktif, 42.000 personel cadangan, 586 buah tank, kendaraan lapis baja, 6.972, 92 artileri, 786 pesawat tempur, 143 kapal perang termasuk 2 kapal induk dan 6 kapal selam.
+
+</item>
+        <item>Meski saat ini tidak aktif berperang, angkatan bersenjata Korea Selatan selalu dalam kondisi siaga karena secara de facto negara itu belum berdamai dengan tetangganya Korea Utara.
+
+Angkatan bersenjata Korea Selatan terbentuk pada 1948 bersamaan dengan terpecahnya semenanjung Korea menjadi dua negara.
+
+Kini militer Korea Utara menjadi salah satu yang terbesar di dunia dengan personel aktif mencapai lebih dari 3,5 juta orang yang terdiri atas 625.000 personel garis depan dan 2.900.000 orang cadangan.
+
+Korea Selatan kini diperkuat dengan 2.381 buah tank, 2.660 kendaraan lapis baja dan 214 sistem peluncur roket berbagai jenis.
+
+Negeri ini juga memiliki 1.452 pesawat militer, termasuk 854 pesawat tempur, 77 helikopter serbu, 166 kapal perang yang di dalamnya termasuk 1 kapal induk dan 15 kapal selam.
+
+Semua personel dan peralatan tempur canggih itu tahun ini dibiayai dengan anggaran sebesar 62,3 miliar dolar AS atau sekitar Rp824 triliun.
+
+</item>
+        <item>Perancis hingga kini masih merupakan salah satu negara di dunia dengan anggaran militer terbesar. Sama seperti Inggris, militer Perancis sudah terlibat dalam berbagai perang besar sepanjang sejarah dunia.
+
+Anggaran miilter Perancis tahun ini sebesar 62.3 miliar dolar AS atau sekitar Rp824 triliun dengan personel aktif sebanyak 205.000 orang dan 195.770 personel cadangan.
+
+Angkatan daratnya diperkuat 423 buah tank, lebih dari 500 berbagai jenis meriam artileri, dan 44 sistem peluncur rudal.
+
+Angkatan udara Perancis diperkuat 1.282 pesawat termasuk 568 pesawat tempur dan 48 helikopter serbu.
+
+Di laut, Perancis memiliki 118 kapal perang, termasuk 4 kapal induk, 10 kapal selam dan 18 kapal penyapu ranjau.</item>
+        <item>India menjadi salah satu negara dengan militer yang terkuat di Asia dan dunia. Dengan personel aktif sebanyak 1.325.000 orang dan cadangan sebanyak 2.143.000 menjadikan negeri ini memiliki kekuatan militer yang dahsyat.
+
+Jutaan personel terlatih itu diperkuat dengan 6.464 tank, 6.704 kendaraan lapos baja dan lebih dari 7.600 persenjataan artileri.
+
+Di udara, India memiliki 2.086 pesawat termasuk 1.488 pesawat tempur dan 19 helikopter tempur. Di laut, India memiliki 295 kapal perang, termasuk 2 kapal induk, 14 kapal selam dan 6 penyapu ranjau.
+
+Lalu berapa anggaran militer India? Negeri ini menyediakan anggaran sebesar 50 miliar dolar atau sekitar Rp660 triliun untuk angkatan perangnya.</item>
+        <item>Sejak awal abad ke-20 Jepang selalu memiliki angkatan bersenjata yang disegani. Mulai dari Rusia, Inggris, Australia dan Amerika Serikat pernah merasakan tangguhnya para prajurit Jepang.
+
+Namun, setelah kalah dalam Perang Dunia II, militer Jepang dipangkas kekuatannya dan pada 1954 kekuatan militer Jepang hanya terbatas untuk keperluan pertahan dan membela diri.
+
+Meski demikian, Jepang masih mengeluarkan anggaran sebesar 41,6 miliar dolar atau hampir Rp550 triliun setahun.
+
+Jepang kini memiliki 250.000 personel aktif dengan 57.900 personel cadangan yang diperkuat 678 tank, lebih dari 700 pucuk meriam artileri dan 99 sistem peluncur rudal.
+
+Jepang juga memiliki 1.590 pesawat militer termasuk jet-jet tempur, 131 kapal perang, termasuk dua kapal induk dan 17 kapal selam.</item>
+        <item>Dalam beberapa tahun terakhir China menjelma menjadi kekuatan militer baru yang menyaingi kehadiran militer Amerika Serikat di Asia dan Pasifik.
+
+Dilihat dari sisi anggaran, jumlah personel dan alutsista, angkatan bersenjata China memang berukuran jumbo.
+
+Anggaran militernya saja sudah sangat mencengangkan yaitu 216 miliar dolar AS atau hampir Rp3.000 triliun untuk setahun.
+
+Militer China memiliki 2.335.000 orang personel aktif dan 2.300.000 personel cadangan terlatih.
+
+Sumber daya manusia yang berlimpah ini diperkuat degan 9.150 tank, 4.788 kendaraan lapis baja, 7.950 meriam artileri berbagai jenis dan 1.770 sistem peluncur roket.
+
+Di udara, China memiliki 2.615 pesawat tempur dan 200 helikopter serbu. Di laut, terdapat 714 kapal perang, termasuk 1 kapal induk dan 68 kapal selam.
+
+Dikabarkan dalam waktu dekat, China akan menyelesaikan pembangunan kapal induknya yang kedua dan satu armada kapal perusak.</item>
+        <item>Di posisi kedua negara dengan militer terkuat di dunia adalah Rusia, yang merupakan pewaris negara adi kuasa Uni Soviet.
+
+Untuk membiayai militer terbesar kedua di dunia ini pemerintah Rusia harus merogoh koceknya sebesar 84.5 miliar dolar AS atau sekitar Rp1.120 triliun.
+
+Dengan uang ini, Rusia membiayai 766.055 personel aktif, 2.485.000 personel cadangan, 15.398 tank, 31.298 kendaraan lapis baja, lebih dari 10.000 senjata artileri dan 3.793 sistem peluncur roket.
+
+Rusia juga diperkuat 3.547 pesawat tempur berbagai jenis, 478 helikopter serbu, 352 kapal perang, 1 kapal induk dan 60 kapal selam.</item>
+        <item>Di peringkat negara dengan militer di dunia adalah Amerika Serikat. Posisi ini agaknya tak tergoyahkan sejak akhir Perang Dunia II.
+
+Wajar saja jika AS menjadi negara dengan militer terkuat di dunia, karena anggaran yang dikucurkan juga tak tanggung-tanggung yaitu 601 miliar dolar AS atau sekitar Rp7.945 triliun.
+
+Militer AS diperkuat 1,4 juta personel aktif dan 1,1 juta personel cadangan terlatih.
+
+Di darat, AS memiliki 8.848 tank, 41.000 kendaraan lapis baja, 3.000 lebih senjata artileri dan 1.331 sistem peluncur rudal.
+
+Di udara, sebanyak 13.444 pesawat militer termasuk 5.039 buah pesawat tempur, 5.739 pesawat angkut dan 957 helikopter serbu.
+
+Di laut, AS memiliki 415 kapal termasuk 19 kapal induk, 74 kapal selam dan 11 kapal penyapu ranjau.</item>
+    </string-array>
+</resources>
